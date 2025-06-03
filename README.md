@@ -1,6 +1,6 @@
-#Tarea 1
+# Tarea 1
 
-##Integrantes:
+## Integrantes:
 
 ### Jose Daniel Mejia Cuellar 20212030242
 
